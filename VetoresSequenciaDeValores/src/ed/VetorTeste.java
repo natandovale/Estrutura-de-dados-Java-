@@ -1,5 +1,7 @@
 package ed;
 
+import java.util.ArrayList;
+
 public class VetorTeste {
 	public static void main(String[] args) {
 		
@@ -19,6 +21,6 @@ public class VetorTeste {
 		 //Aluno x = lista.pega(158);
 		 //System.out.println(x);
 		 
-		 
+		 ArrayList<Aluno> listaDoJava = new ArrayList<Aluno>();
 	}
 }
