@@ -12,6 +12,8 @@ public class TesteListaLigada {
 		System.out.println(lista);
 		lista.adicionaNoComeco("Joao");
 		System.out.println(lista);
+		lista.adiciona(2, "Maria");
+		System.out.println(lista);
 	}
 
 }
